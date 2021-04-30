@@ -23,7 +23,7 @@
               .h5.mb-0 Infografía - Validación de requerimientos
               p.text-small La validación de los requerimientos busca ratificar que los requerimientos realmente están especificando lo que el cliente desea y necesita. 
             .col-sm-auto
-              a.boton.boton--b(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+              a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_Actividad_didactica_1_CF04.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     .titulo-segundo.mt-4
@@ -65,7 +65,7 @@
       #t_1_2.h4 1.2 Construcción de prototipos
     figure.mt-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/TwJfRYvRp0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mt-4 Por otra parte, el uso inadecuado de los prototipos también puede generar algunos riesgos, entre los que se encuentran:
     .row.mt-4.mx-0
       .col-11.bg-verde-claro.mx-5.rounded
