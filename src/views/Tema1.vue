@@ -10,10 +10,29 @@
     .row
       .col-12.col-md-8
         p.mt-4 La validación de los requerimientos busca ratificar que los requerimientos realmente están especificando lo que el cliente desea y necesita. Este proceso es muy importante, pues un error en un documento de requerimientos puede ocasionar el desgaste importante de muchos recursos si estos errores son detectados en etapas más avanzadas del proyecto como diseño, construcción o despliegue a producción. Los costos asociados para el arreglo de problemas en los requerimientos siempre van a ser menores que en otras etapas, ya que un error en los requerimientos se propaga en cascada en todas las fases subsiguientes del ciclo de vida.
+        p.mt-4 Según Sommerville (2011), en el proceso de validación de requerimientos se llevan a cabo las siguientes verificaciones:
+        ul.mt-4.mb-4
+          li
+            i.lista-ul__vineta(style="color: #ffa726;")
+            | #[strong Verificación de validez:] los requerimientos son razonables e identifican realmente todas las funciones. necesarias para cumplir con las necesidades del cliente.
+          li.mt-2
+            i.lista-ul__vineta(style="color: #ffa726;")
+            | #[strong Verificación de consistencia:] los requerimientos no presentan contradicciones.
+          li.mt-2
+            i.lista-ul__vineta(style="color: #ffa726;")
+            | #[strong Verificaciones de completitud:]  se incluyen todas las funcionalidades y restricciones definidas por los usuarios del sistema.
+          li.mt-2
+            i.lista-ul__vineta(style="color: #ffa726;")
+            | #[strong Verificaciones de realismo: ] los requerimientos son realizables de acuerdo con la tecnología existente, el presupuesto y los tiempos definidos.
+          li.mt-2
+            i.lista-ul__vineta(style="color: #ffa726;")
+            | #[strong Verificabilidad: ] es posible demostrar la realización de cada requerimiento y que hace lo que debe hacer. Es decir, existe una forma clara en la que se le pueda realizar pruebas.
+
+
       .col-4.d-none.d-md-block
         figure.mb-5.px-4
           img(src="@/assets/template/tema-1-1.svg", alt="Texto que describa la imagen")
-    .tarjeta.tarjeta--azul.p-3.mb-5
+    .tarjeta.tarjeta--azul.p-3.mb-5.mt-4
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1.mx-4
           img(src="@/assets/template/tema-1-2.svg")

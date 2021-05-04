@@ -62,12 +62,12 @@ export default {
       },
     ],
     subMenu: [
-      // {
-      //   nombreRuta: 'actividad',
-      //   icono: 'far fa-question-circle',
-      //   titulo: 'Actividad didáctica',
-      //   desarrolloContenidos: true,
-      // },
+      {
+        nombreRuta: 'actividad',
+        icono: 'far fa-question-circle',
+        titulo: 'Actividad didáctica',
+        desarrolloContenidos: true,
+      },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -147,10 +147,14 @@ export default {
       {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
+        centro: 'Centro industrial del diseño y la manufactura',
+        regional: 'Regional Santander',
       },
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
+        centro: 'Centro de comercio y servicios',
+        regional: 'Regional Tolima',
       },
       {
         nombre: [
@@ -167,18 +171,13 @@ export default {
         nombre: [
           'Lizeth Karina Manchego Suarez',
           'Luis Gabriel Urueta Alvarez',
+          'Jhon Jairo Urueta Alvarez',
         ],
         cargo: 'Desarrollo Front-End',
       },
       {
         centro: 'Centro industrial del diseño y la manufactura',
         regional: 'Regional Santander',
-      },
-      {
-        nombre: 'Jhon Jairo Urueta Alvarez',
-        cargo: 'Desarrollo Front-End',
-        centro: 'Centro de comercio y servicios',
-        regional: 'Regional Tolima',
       },
     ],
     gestoresRepositorio: [

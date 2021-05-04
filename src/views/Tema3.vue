@@ -54,37 +54,42 @@
               th IBM Rational DOORS
               td IBM Rational
               th.ellipsis
-                a.mt-1(href="ibm.com/es-es/products/requirements-management") ibm.com/es-es/products/requirements-management
+                a.mt-1(href="http://www-03.ibm.com/software/products/en/ratidoor" target="_blank") ibm.com/software/products/en/ratidoor
             tr
               th Visure Requirements
               td Visure Solutions
               th.ellipsis 
-                a.mt-1(href="visuresolutions.com/es/herramienta-ingeniera-requisitos") visuresolutions.com/es/herramienta-ingeniera-requisitos
+                a.mt-1(href="http://www.visuresolutions.com/products/index.php"  target="_blank") visuresolutions.com/products/
             tr.bg-gris-claro
               th Reqtify
               td Dassault Systèmes
               th 
-                a.mt-1(href="claytex.com/products/reqtify") claytex.com/products/reqtify
+                a.mt-1(href="http://www.3ds.com/products-services/catia/capabilities/systems-engineering/requirements-engineering/reqtify/"  target="_blank") claytex.com/products/reqtify
             tr
               th Jama
               td Jama Software
               th.ellipsis 
-                a.mt-1(href="jamasoftware.com") jamasoftware.com
+                a.mt-1(href="http://www.jamasoftware.com/"  target="_blank") jamasoftware.com
             tr.bg-gris-claro
               th Accept 360 
               td Accept Software 
               th.ellipsis 
-                a.mt-1(href="technologyevaluation.com/solutions/17078/accept360") technologyevaluation.com/solutions/17078/accept360
+                a.mt-1(href="http://www.acceptsoftware.com/"  target="_blank") acceptsoftware.com
             tr
               th Gatherspace
               td Gatherspace
               th.ellipsis 
-                a.mt-1(href="gatherspace.com/project-management-software-solutions") gatherspace.com/project-management-software-solutions
+                a.mt-1(href="http://www.gatherspace.com/"  target="_blank") gatherspace.com
             tr.bg-gris-claro
               th RequisitePro
               td IBM Rational
               th.ellipsis 
-                a.mt-1(href="ibm.com/support/pages/rational-requisitepro-713") ibm.com/support/pages/rational-requisitepro-713
+                a.mt-1(href="http://www-03.ibm.com/software/products/en/reqpro"  target="_blank") ibm.com/software/products/en/reqpro
+            tr
+              th MagicDraw
+              td No Magic
+              th.ellipsis 
+                a.mt-1(href="http://www.nomagic.com/products/magicdraw.html"  target="_blank") nomagic.com/products/magicdraw.html
 
     .row.mt-5
       p La norma ISO 24766 (Information Technology – Guide for Requirements Tool Capabilites) ayuda a seleccionar una herramienta adecuada de gestión de requisitos, pues la misma proporciona una orientación sobre los aportes de estas herramientas.            
@@ -117,6 +122,9 @@
               td.text-center.px-4 Herramienta de administración de requisitos que permite crear y compartir basado en documentos potenciados.
               td.text-center.px-4.py-5 Herramienta de administración de requisitos que permite visibilidad y control.
       .py-4.py-md-5(titulo="Herramientas libres" :icono="require('@/assets/template/tema-3-11.svg')")
+        .row.mt-4
+          p También existen herramientas de uso libre para realizar las actividades pertinentes a la gestión de requisitos. Algunas son:
+        .tabla-a.mb-5 
         table
           tbody
             tr.bg-gris-claro
