@@ -59,7 +59,7 @@
               th Visure Requirements
               td Visure Solutions
               th.ellipsis 
-                a.mt-1(href="http://www.visuresolutions.com/products/index.php"  target="_blank") visuresolutions.com/products/
+                a.mt-1(href="https://visuresolutions.com/requirements-management-tool/"  target="_blank") visuresolutions.com/requirements-management-tool
             tr.bg-gris-claro
               th Reqtify
               td Dassault Systèmes

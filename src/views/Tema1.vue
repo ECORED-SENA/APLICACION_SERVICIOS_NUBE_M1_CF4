@@ -45,6 +45,7 @@
               a.boton.boton--b(:href="obtenerLink('/downloads/Anexo_Actividad_didactica_1_CF04.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
+    p.mt-4 Existen varias técnicas que pueden usarse para la validación de requisitos, como se puede revisar a continuación.
     .titulo-segundo.mt-4
       #t_1_1.h4 1.1. Revisiones de requerimientos
     p.mt-4 Las revisiones de los requerimientos es un proceso manual que involucra la participación de personas de parte de la organización constructora del software así como la de los clientes. Por lo general, en este proceso se revisa el documento de requerimientos tratando de encontrar alguna anomalía y/u omisiones en la escritura de estos.

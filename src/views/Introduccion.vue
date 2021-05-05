@@ -12,7 +12,7 @@
     figure.mb-5
       img(src="@/assets/curso/banner-intro.svg", alt="Texto que describa la imagen")
 
-    p.mb-0 En este componente formativo se estudiarán algunas técnicas utilizadas para la validación de requisitos, se introduce el concepto de requerimientos duraderos y volátiles y, finalmente, se presentan algunas herramientas que soportan las actividades de gestión de requisitos.
+    p.mb-0 En este componente formativo se abordan los temas de técnicas de validación de requisitos (revisiones, prototipos y casos de prueba) y el tema de los requerimientos duraderos y volátiles.
 </template>
 
 <script>
