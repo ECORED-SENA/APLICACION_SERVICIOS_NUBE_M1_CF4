@@ -34,11 +34,11 @@
     p.mt-5 De acuerdo con el mismo autor, las herramientas de gestión de requisitos se caracterizan por las siguientes propiedades:
     .row.mt-5
       .col-10.px-5.py-4.offset-1.bg-gris.rounded
-        p ● Gestión de requisitos basados en modelos de información como por ejemplo casos de usos o historias de usuario. 
+        p ● Gestión de requisitos basados en modelos de información como por ejemplo casos de uso o historias de usuario. 
         p.mt-1 ● Organización de requisitos: es fácil agrupar el conjunto de requisitos y determinar su orden.
         p.mt-1 ● Acceso y gestión multiusuario: múltiples personas pueden participar en los procesos de construcción o modificación de requisitos.
         p.mt-1 ● Gestión de la trazabilidad: se puede ver a nivel histórico los cambios realizados en los requisitos con su marca de tiempo y usuarios involucrados.
-    p.mt-5 Las siguientes herramientas principalmente ayuda a documentar, analizar, buscar, priorizar y trazar los requisitos:
+    p.mt-5 Las siguientes herramientas principalmente ayudan a documentar, analizar, buscar, priorizar y trazar los requisitos:
     .row.mt-4
       .col-10.offset-1
         .tabla-a.mb-5 
@@ -54,17 +54,17 @@
               th IBM Rational DOORS
               td IBM Rational
               th.ellipsis
-                a.mt-1(href="http://www-03.ibm.com/software/products/en/ratidoor" target="_blank") ibm.com/software/products/en/ratidoor
+                a.mt-1(href="https://www.ibm.com/es-es/products/requirements-management" target="_blank") ibm.com/es-es/products/requirements-management
             tr
               th Visure Requirements
               td Visure Solutions
               th.ellipsis 
-                a.mt-1(href="https://visuresolutions.com/requirements-management-tool/"  target="_blank") visuresolutions.com/requirements-management-tool
+                a.mt-1(href="https://visuresolutions.com/es/herramienta-ingeniera-requisitos/"  target="_blank") visuresolutions.com/es/herramienta-ingeniera-requisitos/
             tr.bg-gris-claro
               th Reqtify
               td Dassault Systèmes
               th 
-                a.mt-1(href="http://www.3ds.com/products-services/catia/capabilities/systems-engineering/requirements-engineering/reqtify/"  target="_blank") claytex.com/products/reqtify
+                a.mt-1(href="https://www.claytex.com/products/reqtify/"  target="_blank") claytex.com/products/reqtify
             tr
               th Jama
               td Jama Software
@@ -74,22 +74,17 @@
               th Accept 360 
               td Accept Software 
               th.ellipsis 
-                a.mt-1(href="http://www.acceptsoftware.com/"  target="_blank") acceptsoftware.com
+                a.mt-1(href="https://www3.technologyevaluation.com/solutions/17078/accept360"  target="_blank") technologyevaluation.com/solutions/17078/accept360
             tr
               th Gatherspace
               td Gatherspace
               th.ellipsis 
-                a.mt-1(href="http://www.gatherspace.com/"  target="_blank") gatherspace.com
+                a.mt-1(href="https://www.gatherspace.com/project-management-software-solutions/"  target="_blank") gatherspace.com/project-management-software-solutions/
             tr.bg-gris-claro
               th RequisitePro
               td IBM Rational
               th.ellipsis 
-                a.mt-1(href="http://www-03.ibm.com/software/products/en/reqpro"  target="_blank") ibm.com/software/products/en/reqpro
-            tr
-              th MagicDraw
-              td No Magic
-              th.ellipsis 
-                a.mt-1(href="http://www.nomagic.com/products/magicdraw.html"  target="_blank") nomagic.com/products/magicdraw.html
+                a.mt-1(href="https://www.ibm.com/support/pages/rational-requisitepro-713"  target="_blank") ibm.com/support/pages/rational-requisitepro-713
 
     .row.mt-5
       p La norma ISO 24766 (Information Technology – Guide for Requirements Tool Capabilites) ayuda a seleccionar una herramienta adecuada de gestión de requisitos, pues la misma proporciona una orientación sobre los aportes de estas herramientas.            
@@ -118,7 +113,7 @@
                     figure.justify-content-center
                       img(src="@/assets/template/tema-3-6.svg", alt="Texto que describa la imagen").w-50
             tr.bg-gris-claro
-              td.text-center.px-4 Aplicación de gestión de requisitos para optimizar la comunicación la colaboración y la verificación de requisitos.
+              td.text-center.px-4 Aplicación de gestión de requisitos para optimizar la comunicación, la colaboración y la verificación de requisitos.
               td.text-center.px-4 Herramienta de administración de requisitos que permite crear y compartir basado en documentos potenciados.
               td.text-center.px-4.py-5 Herramienta de administración de requisitos que permite visibilidad y control.
       .py-4.py-md-5(titulo="Herramientas libres" :icono="require('@/assets/template/tema-3-11.svg')")
