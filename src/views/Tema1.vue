@@ -170,7 +170,7 @@
             a.mt-1(href="https://www.pidoco.com/en")  www.pidoco.com/en
     .titulo-segundo.mt-5
       #t_1_3.h4 1.3. Generación de casos de prueba
-    p.mt-4 Desarrollar pruebas para los requerimientos permite evidenciar problemas antes de escribir cualquier línea de código. Normalmente si es complejo construir un caso de prueba para un requerimiento esto un indicio de que el requerimiento puede ser difícil de implementar por lo que debería considerarse.
+    p.mt-4 Desarrollar pruebas para los requerimientos permite evidenciar problemas antes de escribir cualquier línea de código. Normalmente si es complejo construir un caso de prueba para un requerimiento esto es un indicio de que el requerimiento puede ser difícil de implementar por lo que debería considerarse.
     .row.mt-5
       .col-4.d-none.d-md-block
         figure.mb-5.px-4
