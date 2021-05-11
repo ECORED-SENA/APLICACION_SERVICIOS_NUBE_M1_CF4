@@ -14,7 +14,7 @@
         ul.mt-4.mb-4
           li
             i.lista-ul__vineta(style="color: #ffa726;")
-            | #[strong Verificación de validez:] los requerimientos son razonables e identifican realmente todas las funciones. necesarias para cumplir con las necesidades del cliente.
+            | #[strong Verificación de validez:] los requerimientos son razonables e identifican realmente todas las funciones necesarias para cumplir con las necesidades del cliente.
           li.mt-2
             i.lista-ul__vineta(style="color: #ffa726;")
             | #[strong Verificación de consistencia:] los requerimientos no presentan contradicciones.
